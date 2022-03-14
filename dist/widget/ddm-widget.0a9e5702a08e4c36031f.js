@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ddm-widget"],{"9vf+x":function(e,d){e.exports="/apps/ddm-widget/03629b34e1ae79304da025a97f6246cb.png"},"@angular/core":function(e,d){e.exports=AngularCore},"@c8y/client":function(e,d){e.exports=C8yClient},"@c8y/ngx-components":function(e,d){e.exports=C8yNgxComponents}},[["ddm-widget-CustomWidget","webpackRuntime","ddm-widget-stylejs","ddm-widget-CustomWidget","ddm-widget-vendors~d939e436"]]]);
+//# sourceMappingURL=ddm-widget.0a9e5702a08e4c36031f.js.map

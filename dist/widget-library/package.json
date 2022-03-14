@@ -1,0 +1,35 @@
+{
+  "name": "ddm-widget",
+  "interleave": {
+    "dist\\bundle-src\\custom-widget.js": "ddm-widget-CustomWidget",
+    "dist/bundle-src/custom-widget.js": "ddm-widget-CustomWidget"
+  },
+  "version": "1.0.2-development",
+  "description": "Template widget for runtime loading in Cumulocity using the cumulocity-runtime-widget-loader (written by Software AG Global Presales)",
+  "keywords": [],
+  "author": "Richard Peach - Software AG, Global Presales",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "snapdragon-node": "^2.1.1",
+    "tslib": "^1.9.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "8.2.13",
+    "@angular/core": "8.2.13",
+    "@angular/forms": "8.2.13",
+    "@angular/http": "7.2.15",
+    "@angular/router": "8.2.13",
+    "@c8y/ngx-components": "1006.3.0"
+  },
+  "main": "bundles/custom-widget.umd.js",
+  "module": "fesm5/custom-widget.js",
+  "es2015": "fesm2015/custom-widget.js",
+  "esm5": "esm5/custom-widget.js",
+  "esm2015": "esm2015/custom-widget.js",
+  "fesm5": "fesm5/custom-widget.js",
+  "fesm2015": "fesm2015/custom-widget.js",
+  "typings": "custom-widget.d.ts",
+  "metadata": "custom-widget.metadata.json",
+  "sideEffects": false
+}
